@@ -64,3 +64,14 @@ iframe {
 #callout p {
 	color: #fff;
 }
+/* footnote rules */
+	#floated{
+    float: left;
+    width: 330px;
+	}
+	a-p:target {
+		background-color: #a3e7cd;
+	}
+	a-b:target {
+		background-color: #a3e7cd;
+	}
